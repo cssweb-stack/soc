@@ -60,8 +60,9 @@ _site/
 /src/_includes/icons/telephone.svg
 /src/_includes/layouts/base.njk
 /src/_includes/layouts/faculty-profile.njk
-/src/_media/branding/footer-watermark-desktop.png
-/src/_media/branding/footer-watermark-mobile.png
+/src/_media/branding/favicon/apple-touch-icon.png
+/src/_media/branding/favicon/favicon-16x16.png
+/src/_media/branding/favicon/favicon-32x32.png
 /src/_media/branding/geo-logo-white.svg
 /src/_media/branding/uh-manoa-logo-white.svg
 /src/_media/branding/uh-pattern-horz-black.svg
