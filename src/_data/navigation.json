@@ -1,0 +1,83 @@
+[
+  {
+    "label": "Home",
+    "url": "/"
+  },
+  {
+    "label": "About SOC",
+    "children": [
+      {
+        "label": "Why Study SOC",
+        "url": "/about-soc/why-study-soc.html",
+        "icon": "compass"
+      },
+      {
+        "label": "Areas of Study",
+        "url": "/about-soc/areas-of-study.html",
+        "icon": "globe-americas"
+      },
+      {
+        "label": "History",
+        "url": "/about-soc/history.html",
+        "icon": "book"
+      },
+      {
+        "label": "Department News",
+        "url": "/about-soc/department-news.html",
+        "icon": "newspaper"
+      },
+      {
+        "label": "Events",
+        "url": "/about-soc/events.html",
+        "icon": "calendar3"
+      }
+    ]
+  },
+  {
+    "label": "Undergraduate",
+    "children": [
+      {
+        "label": "Minor",
+        "url": "/undergraduate/minor.html",
+        "icon": "journal"
+      },
+      {
+        "label": "Major",
+        "url": "/undergraduate/major.html",
+        "icon": "mortarboard"
+      },
+      {
+        "label": "BAM",
+        "url": "/undergraduate/bam.html",
+        "icon": "layers"
+      }
+    ]
+  },
+  {
+    "label": "Graduate",
+    "children": [
+      {
+        "label": "MA",
+        "url": "/graduate/master-ma.html",
+        "icon": "mortarboard"
+      },
+      {
+        "label": "PhD",
+        "url": "/graduate/doctorate-phd.html",
+        "icon": "journal-richtext"
+      }
+    ]
+  },
+  {
+    "label": "Faculty",
+    "url": "/faculty/"
+  },
+  {
+    "label": "Support SOC",
+    "url": "/support-soc/"
+  },
+  {
+    "label": "Contact",
+    "url": "/contact/"
+  }
+]

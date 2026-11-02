@@ -1,0 +1,52 @@
+{
+  "name": "Department of Sociology",
+  "shortName": "SOC",
+  "url": "https://cssweb-stack.github.io/soc",
+  "defaultHero": "/_media/heros/honolulu-oahu.webp",
+  "ga4MeasurementId": "",
+  "searchProvider": "google-site-restricted",
+  "prefix": "Department of",
+  "logo": {
+    "src": "/_media/unit/soc-logo-white.svg",
+    "alt": "Department of Sociology, University of Hawaiʻi at Mānoa",
+    "width": 500,
+    "height": 310
+  },
+  "privacy": {
+    "label": "Department Privacy Policy",
+    "url": "/privacy/"
+  },
+  "webmaster": {
+    "label": "Department Webmaster",
+    "email": "cssweb@hawaii.edu"
+  },
+  "address": [
+    "2424 Maile Way",
+    "Saunders Hall 247",
+    "Honolulu, HI 96822"
+  ],
+  "phone": {
+    "label": "1 (808) 956-7693",
+    "href": "tel:+18089567693"
+  },
+  "email": {
+    "label": "socdept@hawaii.edu",
+    "href": "mailto:socdept@hawaii.edu",
+    "contactHref": "mailto:socdept@hawaii.edu"
+  },
+  "socialLinks": [
+    {
+      "label": "X (Twitter)",
+      "url": "https://twitter.com/UHM_Sociology"
+    }
+  ],
+  "search": {
+    "domain": "cssweb-stack.github.io/soc/",
+    "label": "SOC"
+  },
+  "courseResources": [],
+  "facultyBasePath": "/faculty/",
+  "bluesky": {
+    "enabled": false
+  }
+}

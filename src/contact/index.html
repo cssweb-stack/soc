@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+title: "Contact SOC"
+hidePageTitle: true
+description: "SOC website demonstration. Placeholder content for layout and navigation testing."
+permalink: "/contact/"
+---
+<div class="page-header">
+<h1>Contact SOC</h1>
+<p class="intro-highlight">Department contact information.</p>
+<p class="page-intro">Contact the Department of Sociology at the University of Hawaiʻi at Mānoa.</p>
+</div>
+<h2>Department of Sociology</h2>
+<address>
+<p>{% for line in site.address %}{{ line | escape }}{% if not loop.last %}<br>{% endif %}{% endfor %}</p>
+<p><a href="{{ site.phone.href }}">{{ site.phone.label }}</a></p>
+<p><a href="{{ site.email.href }}">{{ site.email.label }}</a></p>
+</address>
+<p><a href="{{ site.socialLinks[0].url }}">SOC on X (Twitter)</a></p>
+<p>This demonstration uses contact details supplied for the project.</p>

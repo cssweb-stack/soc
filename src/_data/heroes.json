@@ -1,0 +1,119 @@
+{
+  "defaults": {
+    "background": "#000000",
+    "grayscale": 10,
+    "overlayOpacity": 0,
+    "blendMode": "normal",
+    "patternOpacity": 0.33,
+    "patternSize": 50,
+    "pattern": "uh-pattern-vert-5-black.svg",
+    "position": "center"
+  },
+  "sections": {
+    "home": {
+      "color": "#354d67"
+    },
+    "about": {
+      "color": "#354d67"
+    },
+    "undergraduate": {
+      "color": "#354d67"
+    },
+    "graduate": {
+      "color": "#354d67"
+    },
+    "faculty": {
+      "color": "#354d67"
+    },
+    "giving": {
+      "color": "#354d67"
+    },
+    "contact": {
+      "color": "#354d67"
+    },
+    "privacy": {
+      "color": "#354d67"
+    }
+  },
+  "credit": {
+    "source": "ESA WorldCover project (2021) / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "url": "https://esa-worldcover.org/en/data-access"
+  },
+  "pages": {
+    "/": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/privacy/": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/about-soc/why-study-soc.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/about-soc/areas-of-study.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/about-soc/history.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/about-soc/department-news.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/about-soc/events.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/undergraduate/minor.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/undergraduate/major.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/undergraduate/bam.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/graduate/master-ma.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/graduate/doctorate-phd.html": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/faculty/": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/support-soc/": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    },
+    "/contact/": {
+      "section": "home",
+      "image": "honolulu-oahu.webp",
+      "location": "Honolulu, Oʻahu, Hawaiʻi"
+    }
+  }
+}

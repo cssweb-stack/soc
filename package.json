@@ -1,0 +1,16 @@
+{
+  "name": "soc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "eleventy --serve --port=8081",
+    "build": "eleventy",
+    "clean": "node -e \"import('node:fs').then(fs=>fs.rmSync('_site',{recursive:true,force:true}))\"",
+    "shared:sync": "node scripts/sync-shared.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  },
+  "description": "Sociology demonstration using the CSS shared website foundation"
+}

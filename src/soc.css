@@ -1,0 +1,3 @@
+/* SOC-specific overrides. Shared styles remain in css-shared.
+The current shared base template loads geo.css, so Eleventy publishes this
+local file under that compatibility name. Edit this soc.css source only. */
