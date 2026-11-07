@@ -83,6 +83,7 @@ _site/
 /src/_media/other/contour-lines.svg
 /src/assets/bluesky-feed.js
 /src/assets/site.js
+/src/callouts.css
 /src/common.css
 /src/shell.css
 # END GENERATED SHARED FILES
