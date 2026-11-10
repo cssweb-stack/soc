@@ -1,0 +1,915 @@
+{
+  "source": "sociologysoc.WordPress.2026-11-10.xml",
+  "sourceSha256": "0b9a0e68f71c9902d3387bc362d466278ce395e4ba21968a1cd32bc770c39883",
+  "sourcePageCount": 57,
+  "pages": [
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/about/",
+        "https://sociology.manoa.hawaii.edu/undergraduate/",
+        "https://sociology.manoa.hawaii.edu/graduate/"
+      ],
+      "destination": "/about-soc/why-study-soc.html",
+      "file": "about-soc/why-study-soc.html",
+      "title": "Why Study SOC"
+    },
+    {
+      "sources": [],
+      "destination": "/about-soc/research-areas/",
+      "file": "about-soc/research-areas/index.html",
+      "title": "Research Areas"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/news/",
+        "https://sociology.manoa.hawaii.edu/events/"
+      ],
+      "destination": "/about-soc/news-events.html",
+      "file": "about-soc/news-events.html",
+      "title": "News and Events"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/"
+      ],
+      "destination": "/",
+      "file": "index.html",
+      "title": "Sociology at the University of Hawaiʻi"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/history/"
+      ],
+      "destination": "/about-soc/history.html",
+      "file": "about-soc/history.html",
+      "title": "History"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/minor-requirements/"
+      ],
+      "destination": "/undergraduate/minor/",
+      "file": "undergraduate/minor/index.html",
+      "title": "Minor"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/minor-concentrations/"
+      ],
+      "destination": "/undergraduate/minor/concentrations.html",
+      "file": "undergraduate/minor/concentrations.html",
+      "title": "Minor Concentrations"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/ba-requirements/"
+      ],
+      "destination": "/undergraduate/major/",
+      "file": "undergraduate/major/index.html",
+      "title": "Major (BA)"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/major-concentrations/"
+      ],
+      "destination": "/undergraduate/major/concentrations.html",
+      "file": "undergraduate/major/concentrations.html",
+      "title": "Major Concentrations"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/student-learning-outcomes/"
+      ],
+      "destination": "/undergraduate/major/student-learning-outcomes.html",
+      "file": "undergraduate/major/student-learning-outcomes.html",
+      "title": "Student Learning Outcomes"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/bam/"
+      ],
+      "destination": "/undergraduate/bam.html",
+      "file": "undergraduate/bam.html",
+      "title": "BA/MA Pathway (BAM)"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/honors-track/"
+      ],
+      "destination": "/undergraduate/honors-track.html",
+      "file": "undergraduate/honors-track.html",
+      "title": "Honors Track"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/scholarships-and-funding/",
+        "https://sociology.manoa.hawaii.edu/undergraduate-funding/"
+      ],
+      "destination": "/undergraduate/funding-sources.html",
+      "file": "undergraduate/funding-sources.html",
+      "title": "Funding Sources"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/undergraduate-advising/"
+      ],
+      "destination": "/undergraduate/advising-support/",
+      "file": "undergraduate/advising-support/index.html",
+      "title": "Advising & Support"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/academic-planning/"
+      ],
+      "destination": "/undergraduate/advising-support/academic-planning.html",
+      "file": "undergraduate/advising-support/academic-planning.html",
+      "title": "Academic Planning"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/ma-program/"
+      ],
+      "destination": "/graduate/master-ma.html",
+      "file": "graduate/master-ma.html",
+      "title": "Master’s (MA)"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/phd-program/"
+      ],
+      "destination": "/graduate/doctorate-phd.html",
+      "file": "graduate/doctorate-phd.html",
+      "title": "Doctorate (PhD)"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/graduate-students/"
+      ],
+      "destination": "/graduate/current-cohort.html",
+      "file": "graduate/current-cohort.html",
+      "title": "Current Cohort"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/graduate-funding/",
+        "https://sociology.manoa.hawaii.edu/department-travel-funds/"
+      ],
+      "destination": "/graduate/funding-sources/",
+      "file": "graduate/funding-sources/index.html",
+      "title": "Funding Sources"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/sakihara-scholarship/"
+      ],
+      "destination": "/graduate/funding-sources/sakihara-scholarship.html",
+      "file": "graduate/funding-sources/sakihara-scholarship.html",
+      "title": "Sakihara Scholarship"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/applications-admissions/"
+      ],
+      "destination": "/graduate/applications-admissions.html",
+      "file": "graduate/applications-admissions.html",
+      "title": "Applications & Admissions"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/gssa/"
+      ],
+      "destination": "/graduate/gssa.html",
+      "file": "graduate/gssa.html",
+      "title": "GSSA"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/annual-review/"
+      ],
+      "destination": "/graduate/annual-review.html",
+      "file": "graduate/annual-review.html",
+      "title": "Annual Review"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/course-identification/"
+      ],
+      "destination": "/graduate/course-identification.html",
+      "file": "graduate/course-identification.html",
+      "title": "Course Identification"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/hormann-prize/"
+      ],
+      "destination": "/hormann-prize.html",
+      "file": "hormann-prize.html",
+      "title": "Hörmann Prize"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/alpha-kappa-delta/"
+      ],
+      "destination": "/alpha-kappa-delta.html",
+      "file": "alpha-kappa-delta.html",
+      "title": "Alpha Kappa Delta"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/give-a-gift/"
+      ],
+      "destination": "/support-soc.html",
+      "file": "support-soc.html",
+      "title": "Support SOC"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/contact/"
+      ],
+      "destination": "/contact.html",
+      "file": "contact.html",
+      "title": "Contact SOC"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/asia-pacific-hawaii/"
+      ],
+      "destination": "/about-soc/research-areas/asia-pacific-hawaii-regional-global-contexts.html",
+      "file": "about-soc/research-areas/asia-pacific-hawaii-regional-global-contexts.html",
+      "title": "Asia, Pacific, and Hawaiʻi in Regional and Global Contexts"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/nationalism-globalization-sustainability/"
+      ],
+      "destination": "/about-soc/research-areas/nationalism-globalization-sustainability.html",
+      "file": "about-soc/research-areas/nationalism-globalization-sustainability.html",
+      "title": "Nationalism, Globalization, and Sustainability"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/health-aging-medical-sociology/"
+      ],
+      "destination": "/about-soc/research-areas/health-aging-medical-sociology.html",
+      "file": "about-soc/research-areas/health-aging-medical-sociology.html",
+      "title": "Health, Aging, and Medical Sociology"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/race-ethnicity-gender-class/"
+      ],
+      "destination": "/about-soc/research-areas/race-ethnicity-gender-class.html",
+      "file": "about-soc/research-areas/race-ethnicity-gender-class.html",
+      "title": "Race, Ethnicity, Gender, and Class"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/crime-law-social-control/"
+      ],
+      "destination": "/about-soc/research-areas/crime-law-social-control.html",
+      "file": "about-soc/research-areas/crime-law-social-control.html",
+      "title": "Crime, Law, and Social Control"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/manfred-b-steger/"
+      ],
+      "destination": "/faculty/manfred-b-steger.html",
+      "file": "faculty/manfred-b-steger.html",
+      "title": "Manfred B. Steger"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/nandita-sharma/"
+      ],
+      "destination": "/faculty/nandita-sharma.html",
+      "file": "faculty/nandita-sharma.html",
+      "title": "Nandita Sharma"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/le-lin/"
+      ],
+      "destination": "/faculty/le-lin.html",
+      "file": "faculty/le-lin.html",
+      "title": "Le Lin"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/jennifer-darrah/"
+      ],
+      "destination": "/faculty/jennifer-darrah.html",
+      "file": "faculty/jennifer-darrah.html",
+      "title": "Jennifer Darrah"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/sun-ki-chai/"
+      ],
+      "destination": "/faculty/sun-ki-chai.html",
+      "file": "faculty/sun-ki-chai.html",
+      "title": "Sun-Ki Chai"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/wei-zhang/"
+      ],
+      "destination": "/faculty/wei-zhang.html",
+      "file": "faculty/wei-zhang.html",
+      "title": "Wei Zhang"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/david-johnson/"
+      ],
+      "destination": "/faculty/david-johnson.html",
+      "file": "faculty/david-johnson.html",
+      "title": "David Johnson"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/katherine-irwin/"
+      ],
+      "destination": "/faculty/katherine-irwin.html",
+      "file": "faculty/katherine-irwin.html",
+      "title": "Katherine Irwin"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/krysia-mossakowski/"
+      ],
+      "destination": "/faculty/krysia-mossakowski.html",
+      "file": "faculty/krysia-mossakowski.html",
+      "title": "Krysia Mossakowski"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/ashley-rubin/"
+      ],
+      "destination": "/faculty/ashley-rubin.html",
+      "file": "faculty/ashley-rubin.html",
+      "title": "Ashley Rubin"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/aya-kimura/"
+      ],
+      "destination": "/faculty/aya-kimura.html",
+      "file": "faculty/aya-kimura.html",
+      "title": "Aya Kimura"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/myungji-yang/"
+      ],
+      "destination": "/faculty/myungji-yang.html",
+      "file": "faculty/myungji-yang.html",
+      "title": "Myungji Yang"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/eunjeong-paek/"
+      ],
+      "destination": "/faculty/eunjeong-paek.html",
+      "file": "faculty/eunjeong-paek.html",
+      "title": "Eunjeong Paek"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/yue-sun/"
+      ],
+      "destination": "/faculty/yue-sun.html",
+      "file": "faculty/yue-sun.html",
+      "title": "Yue Sun"
+    },
+    {
+      "sources": [
+        "https://sociology.manoa.hawaii.edu/faculty/"
+      ],
+      "destination": "/faculty/",
+      "file": "faculty/index.html",
+      "title": "Faculty"
+    },
+    {
+      "sources": [],
+      "destination": "/about-soc/soc-courses.html",
+      "file": "about-soc/soc-courses.html",
+      "title": "Courses"
+    }
+  ],
+  "facultyCount": 14,
+  "urlInventory": [
+    {
+      "source": "https://sociology.manoa.hawaii.edu/",
+      "slug": "home",
+      "title": "Home",
+      "destination": "/",
+      "status": "unchanged",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/undergraduate/",
+      "slug": "undergraduate",
+      "title": "Undergraduate",
+      "destination": "/about-soc/why-study-soc.html#undergraduate-study",
+      "status": "merged",
+      "note": "Content preserved in merged page."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/graduate/",
+      "slug": "graduate",
+      "title": "Graduate",
+      "destination": "/about-soc/why-study-soc.html#graduate-study",
+      "status": "merged",
+      "note": "Content preserved in merged page."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/give-a-gift/",
+      "slug": "give-a-gift",
+      "title": "Give a Gift",
+      "destination": "/support-soc.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/contact/",
+      "slug": "contact",
+      "title": "Contact",
+      "destination": "/contact.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/faculty/",
+      "slug": "faculty",
+      "title": "Faculty",
+      "destination": "/faculty/",
+      "status": "unchanged",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/manfred-b-steger/",
+      "slug": "manfred-b-steger",
+      "title": "Manfred B. Steger",
+      "destination": "/faculty/manfred-b-steger.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/nandita-sharma/",
+      "slug": "nandita-sharma",
+      "title": "Nandita Sharma",
+      "destination": "/faculty/nandita-sharma.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/le-lin/",
+      "slug": "le-lin",
+      "title": "Le Lin",
+      "destination": "/faculty/le-lin.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/jennifer-darrah/",
+      "slug": "jennifer-darrah",
+      "title": "Jennifer Darrah",
+      "destination": "/faculty/jennifer-darrah.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/sun-ki-chai/",
+      "slug": "sun-ki-chai",
+      "title": "Sun-Ki Chai",
+      "destination": "/faculty/sun-ki-chai.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/graduate-students/",
+      "slug": "graduate-students",
+      "title": "Graduate Students",
+      "destination": "/graduate/current-cohort.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/ba-requirements/",
+      "slug": "ba-requirements",
+      "title": "BA Requirements",
+      "destination": "/undergraduate/major/",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/minor-requirements/",
+      "slug": "minor-requirements",
+      "title": "Minor Requirements",
+      "destination": "/undergraduate/minor/",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/privacy-policy/",
+      "slug": "privacy-policy",
+      "title": "Privacy Policy",
+      "destination": "/privacy.html",
+      "status": "moved",
+      "note": "Shared privacy policy replaces original policy."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/undergraduate-advising/",
+      "slug": "undergraduate-advising",
+      "title": "Undergraduate Advising",
+      "destination": "/undergraduate/advising-support/",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/student-learning-outcomes/",
+      "slug": "student-learning-outcomes",
+      "title": "Student Learning Outcomes",
+      "destination": "/undergraduate/major/student-learning-outcomes.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/wei-zhang/",
+      "slug": "wei-zhang",
+      "title": "Wei Zhang",
+      "destination": "/faculty/wei-zhang.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/david-johnson/",
+      "slug": "david-johnson",
+      "title": "David Johnson",
+      "destination": "/faculty/david-johnson.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/patricia-steinhoff/",
+      "slug": "patricia-steinhoff",
+      "title": "Patricia Steinhoff",
+      "destination": "",
+      "status": "needs-review",
+      "note": "Not in approved navigation/profile list; original source retained in XML."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/yean-ju-lee/",
+      "slug": "yean-ju-lee",
+      "title": "Yean Ju Lee",
+      "destination": "",
+      "status": "needs-review",
+      "note": "Not in approved navigation/profile list; original source retained in XML."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/katherine-irwin/",
+      "slug": "katherine-irwin",
+      "title": "Katherine Irwin",
+      "destination": "/faculty/katherine-irwin.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/krysia-mossakowski/",
+      "slug": "krysia-mossakowski",
+      "title": "Krysia Mossakowski",
+      "destination": "/faculty/krysia-mossakowski.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/gssa/",
+      "slug": "gssa",
+      "title": "GSSA",
+      "destination": "/graduate/gssa.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/ma-program/",
+      "slug": "ma-program",
+      "title": "MA Program",
+      "destination": "/graduate/master-ma.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/phd-program/",
+      "slug": "phd-program",
+      "title": "PhD Program",
+      "destination": "/graduate/doctorate-phd.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/graduate-funding/",
+      "slug": "graduate-funding",
+      "title": "Graduate Funding",
+      "destination": "/graduate/funding-sources/",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/honors-track/",
+      "slug": "honors-track",
+      "title": "Honors Track",
+      "destination": "/undergraduate/honors-track.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/alpha-kappa-delta/",
+      "slug": "alpha-kappa-delta",
+      "title": "Alpha Kappa Delta",
+      "destination": "/alpha-kappa-delta.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/annual-review/",
+      "slug": "annual-review",
+      "title": "Annual Review",
+      "destination": "/graduate/annual-review.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/course-identification/",
+      "slug": "course-identification",
+      "title": "Course Identification",
+      "destination": "/graduate/course-identification.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/minor-concentrations/",
+      "slug": "minor-concentrations",
+      "title": "Minor Concentrations",
+      "destination": "/undergraduate/minor/concentrations.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/major-concentrations/",
+      "slug": "major-concentrations",
+      "title": "Major Concentrations",
+      "destination": "/undergraduate/major/concentrations.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/undergraduate-funding/",
+      "slug": "undergraduate-funding",
+      "title": "Undergraduate Funding",
+      "destination": "/undergraduate/funding-sources.html#additional-undergraduate-funding",
+      "status": "merged",
+      "note": "Content preserved in merged page."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/applications-admissions/",
+      "slug": "applications-admissions",
+      "title": "Applications and Admissions",
+      "destination": "/graduate/applications-admissions.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/hormann-prize/",
+      "slug": "hormann-prize",
+      "title": "Hörmann Prize",
+      "destination": "/hormann-prize.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/ashley-rubin/",
+      "slug": "ashley-rubin",
+      "title": "Ashley Rubin",
+      "destination": "/faculty/ashley-rubin.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/sakihara-scholarship/",
+      "slug": "sakihara-scholarship",
+      "title": "Sakihara Scholarship",
+      "destination": "/graduate/funding-sources/sakihara-scholarship.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/department-travel-funds/",
+      "slug": "department-travel-funds",
+      "title": "Department Travel Funds",
+      "destination": "/graduate/funding-sources/#department-travel-funds",
+      "status": "merged",
+      "note": "Content preserved in merged page."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/academic-planning/",
+      "slug": "academic-planning",
+      "title": "Academic Planning",
+      "destination": "/undergraduate/advising-support/academic-planning.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/hagen-koo/",
+      "slug": "hagen-koo",
+      "title": "Hagen Koo",
+      "destination": "",
+      "status": "needs-review",
+      "note": "Not in approved navigation/profile list; original source retained in XML."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/aya-kimura/",
+      "slug": "aya-kimura",
+      "title": "Aya Kimura",
+      "destination": "/faculty/aya-kimura.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/news/",
+      "slug": "news",
+      "title": "News",
+      "destination": "/about-soc/news-events.html",
+      "status": "merged",
+      "note": "Replaced by requested feed placeholder; original markup retained in XML."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/events/",
+      "slug": "events",
+      "title": "Events",
+      "destination": "/about-soc/news-events.html",
+      "status": "merged",
+      "note": "Replaced by requested feed placeholder; original markup retained in XML."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/colloquia-archive/",
+      "slug": "colloquia-archive",
+      "title": "Colloquia-Archive",
+      "destination": "",
+      "status": "needs-review",
+      "note": "Not in approved navigation/profile list; original source retained in XML."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/history/",
+      "slug": "history",
+      "title": "History",
+      "destination": "/about-soc/history.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/about/",
+      "slug": "about",
+      "title": "About",
+      "destination": "/about-soc/why-study-soc.html#about-sociology",
+      "status": "merged",
+      "note": "Content preserved in merged page."
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/asia-pacific-hawaii/",
+      "slug": "asia-pacific-hawaii",
+      "title": "Asia, Pacific, and Hawaiʻi in Regional and Global Contexts",
+      "destination": "/about-soc/research-areas/asia-pacific-hawaii-regional-global-contexts.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/nationalism-globalization-sustainability/",
+      "slug": "nationalism-globalization-sustainability",
+      "title": "Nationalism, Globalization, and Sustainability",
+      "destination": "/about-soc/research-areas/nationalism-globalization-sustainability.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/health-aging-medical-sociology/",
+      "slug": "health-aging-medical-sociology",
+      "title": "Health, Aging, and Medical Sociology",
+      "destination": "/about-soc/research-areas/health-aging-medical-sociology.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/race-ethnicity-gender-class/",
+      "slug": "race-ethnicity-gender-class",
+      "title": "Race, Ethnicity, Gender, and Class",
+      "destination": "/about-soc/research-areas/race-ethnicity-gender-class.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/crime-law-social-control/",
+      "slug": "crime-law-social-control",
+      "title": "Crime, Law, and Social Control",
+      "destination": "/about-soc/research-areas/crime-law-social-control.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/myungji-yang/",
+      "slug": "myungji-yang",
+      "title": "Myungji Yang",
+      "destination": "/faculty/myungji-yang.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/scholarships-and-funding/",
+      "slug": "scholarships-and-funding",
+      "title": "Scholarships and Funding",
+      "destination": "/undergraduate/funding-sources.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/bam/",
+      "slug": "bam",
+      "title": "BAM",
+      "destination": "/undergraduate/bam.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/eunjeong-paek/",
+      "slug": "eunjeong-paek",
+      "title": "Eunjeong Paek",
+      "destination": "/faculty/eunjeong-paek.html",
+      "status": "moved",
+      "note": ""
+    },
+    {
+      "source": "https://sociology.manoa.hawaii.edu/yue-sun/",
+      "slug": "yue-sun",
+      "title": "Yue Sun",
+      "destination": "/faculty/yue-sun.html",
+      "status": "moved",
+      "note": ""
+    }
+  ],
+  "media": {
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2021/04/history.jpg": "/media/content/d1f607f4-history.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/undergraduate-sociology.jpg": "/media/content/473e44af-undergraduate-sociology.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/honors-program-full.png": "/media/content/0a5e3267-honors-program-full.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/07/Jason-Higa-jpg.webp": "/media/content/99752f44-Jason-Higa-jpg.webp",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2025/09/Amanda-Bonesteel-Kratt.jpg": "/media/content/3d26ad3b-Amanda-Bonesteel-Kratt.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2025/09/Liam-Burke.jpg": "/media/content/282b4762-Liam-Burke.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/08/Kelly-Duong.jpg": "/media/content/8cb99b3c-Kelly-Duong.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/06/Kotone-Ishida.jpg": "/media/content/64200e1e-Kotone-Ishida.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2024/11/Matthieu-Kalua.jpg": "/media/content/e579af63-Matthieu-Kalua.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/08/Yuka-Koitabashi.jpg": "/media/content/7f91591c-Yuka-Koitabashi.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2024/09/Jaeho-Kook.jpg": "/media/content/0f1f543b-Jaeho-Kook.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2024/09/S.-M.-Anowarul-Kayes-Shimul-Shimul.jpg": "/media/content/7be7891a-S.-M.-Anowarul-Kayes-Shimul-Shimul.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2025/09/Carlie-Peterson-Mosher.jpg": "/media/content/3b3fe7c6-Carlie-Peterson-Mosher.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2020/09/AyaShirayama.jpg": "/media/content/a08857a3-AyaShirayama.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/07/IMG_2266.jpg": "/media/content/4b0c91a0-IMG_2266.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/08/Tingyan-Zhu.jpg": "/media/content/c30d3f90-Tingyan-Zhu.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/gssa-crop.png": "/media/content/12de868a-gssa-crop.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/Alpha-Kappa-Delta-side.png": "/media/content/72e7f89b-Alpha-Kappa-Delta-side.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2018/11/other-saunders-hall.jpg": "/media/content/0a77531a-other-saunders-hall.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/09/Manfred-Steger2.jpg": "/media/content/e6760022-Manfred-Steger2.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/Jennifer-Darrah.jpg": "/media/content/ecf841f8-Jennifer-Darrah.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/Ashley-Rubin.jpg": "/media/content/aaee56a5-Ashley-Rubin.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2025/11/Lisa-Nhomi-Koza.jpg": "/media/content/5a642277-Lisa-Nhomi-Koza.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2018/09/logo-google-scholar.png": "/media/content/52f7ee56-logo-google-scholar.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/Nandita-Sharma.jpg": "/media/content/f0321dc7-Nandita-Sharma.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/Le-Lin.jpg": "/media/content/6f0cea12-Le-Lin.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/uh-award-winnner.png": "/media/content/8d5b0522-uh-award-winnner.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/Sun-Ki-Chai.jpg": "/media/content/cff3fe36-Sun-Ki-Chai.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2018/09/logo-research-gate.png": "/media/content/2a4a5ed1-logo-research-gate.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/wei-zhang.jpg": "/media/content/7bcdce6f-wei-zhang.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/David-Johnson.jpg": "/media/content/1f5557c1-David-Johnson.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2025/08/Katherine-Irwin-v2.jpg": "/media/content/94daf68a-Katherine-Irwin-v2.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/Krysia-Mossakowski.jpg": "/media/content/1ba2b9e5-Krysia-Mossakowski.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/01/Aya-Kimura-2.jpg": "/media/content/ccf26274-Aya-Kimura-2.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2018/09/logo-academia-edu.png": "/media/content/337b803a-logo-academia-edu.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2023/10/Myungji-Yang-2.jpg": "/media/content/3405df06-Myungji-Yang-2.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2023/08/Eunjeong-Paek.jpg": "/media/content/e1c93254-Eunjeong-Paek.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2026/06/Yue-Sun.jpg": "/media/content/bc8d1f78-Yue-Sun.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/Alpha-Kappa-Delta.png": "/media/content/4b19615e-Alpha-Kappa-Delta.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/honors-program.png": "/media/content/9dbf804b-honors-program.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/funding.png": "/media/content/0cd43849-funding.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/planning.png": "/media/content/2602f6aa-planning.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/under-main-2.jpg": "/media/content/6d719581-under-main-2.jpg",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/gssa.png": "/media/content/f0636be7-gssa.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/07/graduate-students.png": "/media/content/486a930e-graduate-students.png",
+    "https://sociology.manoa.hawaii.edu/wp-content/uploads/2019/06/grad-main4-1.jpg": "/media/content/332a12cf-grad-main4-1.jpg"
+  },
+  "retainedLegacyLinks": [],
+  "embedsConvertedToLinks": [
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1858.6316574709576!2d-157.81982177815993!3d21.30060934844142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006d9871ae06a1%3A0x8079ebd468240dd2!2sSaunders+Hall%2C+Honolulu%2C+HI+96822!5e0!3m2!1sen!2sus!4v1507238070024",
+    "https://www.youtube.com/embed/EjNbh4cYWdg",
+    "https://www.youtube.com/embed/KJH9OzcWEKk?rel=0&cc_load_policy=1"
+  ],
+  "heroPlaceholder": "/media/heroes/saunders-mural/01.webp",
+  "publishedPageCount": 50
+}
