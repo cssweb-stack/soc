@@ -75,6 +75,10 @@ for entry in r['pages']:
  output=flat(''.join(parsed[OUT/entry['file']].text))
  for url in entry['sources']:
   raw=source[url].findtext('c:encoded','',ns)
+  if entry['destination'].startswith('/faculty/'):
+   boundary=re.search(r'<h[1-6][^>]*>\s*Background\s*</h[1-6]>',raw,re.I)
+   if not boundary:raise ValueError('Missing faculty Background: '+url)
+   raw=raw[boundary.start():]
   raw=re.sub(r'<h1\b[^>]*>.*?</h1>|<button\b[^>]*>.*?</button>|<script\b[^>]*>.*?</script>|<style\b[^>]*>.*?</style>','',raw,flags=re.S|re.I)
   raw=re.sub(r'\[(?:/?(?:custom-twitter-feeds|fl_builder|embed|gallery))\b[^\]]*\]','',raw)
   expected=flat(''.join(scan(raw).text))
