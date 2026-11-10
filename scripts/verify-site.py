@@ -34,13 +34,18 @@ expected={p['file'] for p in r['pages']}|{'privacy.html'}
 actual={str(p.relative_to(OUT)) for p in files}
 if actual!=expected:errors.append('Unexpected output file set: '+str(actual^expected))
 heroes=json.loads((ROOT.parent/'css-shared/src/data/units/soc/heroes.json').read_text())['pages']
+faculty_heroes=json.loads((ROOT.parent/'css-shared/src/data/units/soc/faculty-heroes.json').read_text())['pages']
+heroes.update(faculty_heroes)
 for p,s in parsed.items():
  rel=str(p.relative_to(OUT));raw=p.read_text()
  if len(s.h1)!=1:errors.append(rel+': expected one H1')
  if len(s.ids)!=len(set(s.ids)):errors.append(rel+': duplicate IDs')
  if not s.description:errors.append(rel+': missing description')
  if s.h1 and not ''.join(s.title).startswith(' '.join(s.h1[0].split())+' | '):errors.append(rel+': title differs from H1')
- if 'page-hero--compact' not in raw or r['heroPlaceholder'] not in raw:errors.append(rel+': missing placeholder hero')
+ url='/' if rel=='index.html' else '/'+rel[:-10] if rel.endswith('index.html') else '/'+rel
+ assigned=heroes.get(url)
+ if not assigned or 'page-hero--compact' not in raw or assigned['image'] not in raw:errors.append(rel+': missing assigned hero')
+ elif ('/saunders-mural/' if url in faculty_heroes else '/shared/') not in assigned['image']:errors.append(rel+': incorrect hero collection')
  if any(token in raw for token in ['{{','{%','[custom-twitter','fl-builder','fl-accordion']):errors.append(rel+': leftover template or WordPress plugin')
  for value in s.links:
   u=urlsplit(value)
