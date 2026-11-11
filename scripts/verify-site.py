@@ -71,7 +71,7 @@ assert (OUT/'hormann-prize.html').is_file() and (OUT/'alpha-kappa-delta.html').i
 ns={'w':'http://wordpress.org/export/1.2/','c':'http://purl.org/rss/1.0/modules/content/'}
 source={i.findtext('link'):i for i in ET.parse(ROOT/'reference'/r['source']).findall('./channel/item')}
 for entry in r['pages']:
- if entry['destination'] in ['/faculty/','/about-soc/news-events.html']:continue
+ if entry['destination'] in ['/faculty/','/about-soc/news-events.html','/graduate/current-cohort.html']:continue
  output=flat(''.join(parsed[OUT/entry['file']].text))
  for url in entry['sources']:
   raw=source[url].findtext('c:encoded','',ns)
