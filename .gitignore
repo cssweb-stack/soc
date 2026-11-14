@@ -3,3 +3,6 @@ _site/
 .shared-source/
 .shared-state.json
 .DS_Store
+
+# Local quarantine; move out manually after reviewing.
+_remove/
