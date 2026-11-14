@@ -1,0 +1,26 @@
+---
+layout: shell.njk
+title: "Student Organizations"
+description: "This will be the meta description."
+permalink: "/graduate/student-organizations.html"
+---
+{% from "layouts/content/image-text-row.njk" import imageTextRow %}
+<div class="page-section">
+<div class="container content-section"><div class="row gx-0 gx-sm-5 gx-lg-5"><div class="col-12">
+<h1>Student Organizations</h1>
+<p>Student organizations offer opportunities for connection, professional development, and recognition in sociology. Explore the graduate student association and the honor society serving undergraduate and graduate students.</p>
+</div></div></div>
+</div>
+<div class="page-section page-section--gray">
+<div class="container content-section">
+{% call imageTextRow('/media/units/soc/student-organizations/alpha-kappa-delta.png', 200, 200, 'Alpha Kappa Delta logo', false, '', 'photo-style') %}
+<h2><a href="{{ '/alpha-kappa-delta.html' | url }}">Alpha Kappa Delta</a></h2>
+<p>Alpha Kappa Delta is the International Sociology Honor Society, with membership opportunities for undergraduate and graduate students. Membership recognizes academic achievement and offers opportunities such as student travel awards and paper competitions.</p>
+{% endcall %}
+<hr>
+{% call imageTextRow('/media/units/soc/student-organizations/gssa.png', 200, 200, 'GSSA logo', false, '', 'photo-style') %}
+<h2>Graduate Student Sociological Association (GSSA)</h2>
+<p>The Graduate Student Sociological Association (GSSA) was established to provide graduate students in Sociology at the UH Mānoa with professional, social and cultural support, a forum for discussion about student issues, and official representation in the Department of Sociology. The association conducts a variety of professional and social activities among graduate students. Among these activities include orientations for new students, workshops on professional development and teaching, and a wide range of outings and get-togethers. The GSSA is a unique vehicle for current graduate students to help newcomers adjust to life in graduate school and beyond.</p>
+{% endcall %}
+</div>
+</div>

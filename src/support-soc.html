@@ -4,15 +4,12 @@ title: "Support SOC"
 description: "This will be the meta description."
 permalink: "/support-soc.html"
 ---
+{% from "layouts/content/image-text-row.njk" import imageTextRow %}
 <div class="page-section">
 <div class="container content-section">
-<div class="row gx-0 gx-sm-5 gx-lg-5">
-<div class="col-12">
+{% call imageTextRow('/media/branding/logos/uhf.svg', 230, 59.33, 'University of Hawaiʻi Foundation', true, 'https://www.uhfoundation.org/', 'sidebar-media') %}
 <h1>Support SOC</h1>
-<figure><img class="img-fluid" src="{{ '/media/branding/logos/uhf.svg' | url }}" alt="University of Hawaiʻi Foundation" width="230" height="59"></figure>
-
 <p>The <a href="https://give.uhfoundation.org/campaigns/63435/donations/new?utm_medium=rdirect&amp;designation_id=12073004">Na HoʻAloha O Sociology Fund</a> (Friends of Sociology Fund) provides general support for the programs and events of the Department of Sociology, including enabling the department to offer honoraria to visiting speakers and to co-host special conferences and events. This fund also serves as the Aloha Fund of the department when it is appropriate to recognize visitors and or to celebrate special accomplishments of members of the department. <em>Contributions of any size are sincerely appreciated.</em></p>
-</div>
-</div>
+{% endcall %}
 </div>
 </div>
