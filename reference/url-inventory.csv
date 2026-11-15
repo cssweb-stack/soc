@@ -1,7 +1,7 @@
 source,slug,title,destination,status,note
 https://sociology.manoa.hawaii.edu/,home,Home,/,unchanged,
-https://sociology.manoa.hawaii.edu/undergraduate/,undergraduate,Undergraduate,/about-soc/why-study-soc.html#undergraduate-study,merged,Content preserved in merged page.
-https://sociology.manoa.hawaii.edu/graduate/,graduate,Graduate,/about-soc/why-study-soc.html#graduate-study,merged,Content preserved in merged page.
+https://sociology.manoa.hawaii.edu/undergraduate/,undergraduate,Undergraduate,/about/why-study-soc.html#undergraduate-study,merged,Content preserved in merged page.
+https://sociology.manoa.hawaii.edu/graduate/,graduate,Graduate,/about/why-study-soc.html#graduate-study,merged,Content preserved in merged page.
 https://sociology.manoa.hawaii.edu/give-a-gift/,give-a-gift,Give a Gift,/support-soc.html,moved,
 https://sociology.manoa.hawaii.edu/contact/,contact,Contact,/contact.html,moved,
 https://sociology.manoa.hawaii.edu/faculty/,faculty,Faculty,/faculty/,unchanged,
@@ -41,16 +41,16 @@ https://sociology.manoa.hawaii.edu/department-travel-funds/,department-travel-fu
 https://sociology.manoa.hawaii.edu/academic-planning/,academic-planning,Academic Planning,/undergraduate/advising-support/academic-planning.html,moved,
 https://sociology.manoa.hawaii.edu/hagen-koo/,hagen-koo,Hagen Koo,,needs-review,Not in approved navigation/profile list; original source retained in XML.
 https://sociology.manoa.hawaii.edu/aya-kimura/,aya-kimura,Aya Kimura,/faculty/aya-kimura.html,moved,
-https://sociology.manoa.hawaii.edu/news/,news,News,/about-soc/news-events.html,merged,Replaced by requested feed placeholder; original markup retained in XML.
-https://sociology.manoa.hawaii.edu/events/,events,Events,/about-soc/news-events.html,merged,Replaced by requested feed placeholder; original markup retained in XML.
+https://sociology.manoa.hawaii.edu/news/,news,News,/about/news-events.html,merged,Replaced by requested feed placeholder; original markup retained in XML.
+https://sociology.manoa.hawaii.edu/events/,events,Events,/about/news-events.html,merged,Replaced by requested feed placeholder; original markup retained in XML.
 https://sociology.manoa.hawaii.edu/colloquia-archive/,colloquia-archive,Colloquia-Archive,,needs-review,Not in approved navigation/profile list; original source retained in XML.
-https://sociology.manoa.hawaii.edu/history/,history,History,/about-soc/history.html,moved,
-https://sociology.manoa.hawaii.edu/about/,about,About,/about-soc/why-study-soc.html#about-sociology,merged,Content preserved in merged page.
-https://sociology.manoa.hawaii.edu/asia-pacific-hawaii/,asia-pacific-hawaii,"Asia, Pacific, and Hawaiʻi in Regional and Global Contexts",/about-soc/research-areas/asia-pacific-hawaii-regional-global-contexts.html,moved,
-https://sociology.manoa.hawaii.edu/nationalism-globalization-sustainability/,nationalism-globalization-sustainability,"Nationalism, Globalization, and Sustainability",/about-soc/research-areas/nationalism-globalization-sustainability.html,moved,
-https://sociology.manoa.hawaii.edu/health-aging-medical-sociology/,health-aging-medical-sociology,"Health, Aging, and Medical Sociology",/about-soc/research-areas/health-aging-medical-sociology.html,moved,
-https://sociology.manoa.hawaii.edu/race-ethnicity-gender-class/,race-ethnicity-gender-class,"Race, Ethnicity, Gender, and Class",/about-soc/research-areas/race-ethnicity-gender-class.html,moved,
-https://sociology.manoa.hawaii.edu/crime-law-social-control/,crime-law-social-control,"Crime, Law, and Social Control",/about-soc/research-areas/crime-law-social-control.html,moved,
+https://sociology.manoa.hawaii.edu/history/,history,History,/about/history.html,moved,
+https://sociology.manoa.hawaii.edu/about/,about,About,/about/why-study-soc.html#about-sociology,merged,Content preserved in merged page.
+https://sociology.manoa.hawaii.edu/asia-pacific-hawaii/,asia-pacific-hawaii,"Asia, Pacific, and Hawaiʻi in Regional and Global Contexts",/about/research-areas/asia-pacific-hawaii-regional-global-contexts.html,moved,
+https://sociology.manoa.hawaii.edu/nationalism-globalization-sustainability/,nationalism-globalization-sustainability,"Nationalism, Globalization, and Sustainability",/about/research-areas/nationalism-globalization-sustainability.html,moved,
+https://sociology.manoa.hawaii.edu/health-aging-medical-sociology/,health-aging-medical-sociology,"Health, Aging, and Medical Sociology",/about/research-areas/health-aging-medical-sociology.html,moved,
+https://sociology.manoa.hawaii.edu/race-ethnicity-gender-class/,race-ethnicity-gender-class,"Race, Ethnicity, Gender, and Class",/about/research-areas/race-ethnicity-gender-class.html,moved,
+https://sociology.manoa.hawaii.edu/crime-law-social-control/,crime-law-social-control,"Crime, Law, and Social Control",/about/research-areas/crime-law-social-control.html,moved,
 https://sociology.manoa.hawaii.edu/myungji-yang/,myungji-yang,Myungji Yang,/faculty/myungji-yang.html,moved,
 https://sociology.manoa.hawaii.edu/scholarships-and-funding/,scholarships-and-funding,Scholarships and Funding,/undergraduate/funding-sources.html,moved,
 https://sociology.manoa.hawaii.edu/bam/,bam,BAM,/undergraduate/bam.html,moved,
