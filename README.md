@@ -1,7 +1,7 @@
 # Department of Sociology
 
 Draft Eleventy website using the College of Social Sciences shared system.
-Read `AGENTS.md` and `../css-shared/docs/soc-migration.md` before making changes.
+Read `AGENTS.md` and `../css-shared/docs/units/soc/soc-migration.md` before making changes.
 
 ## Local development
 
